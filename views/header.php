@@ -35,7 +35,7 @@
                 </div>
                 <?php if (!empty($_SESSION["id"])): ?>
                     <ul class="nav nav-pills">
-                        <li><a href="quote.php">Quote</a></li>
+                        <li><a href="quote.php">Quote!!!!!</a></li>
                         <li><a href="buy.php">Buy</a></li>
                         <li><a href="sell.php">Sell</a></li>
                         <li><a href="deposit.php">Desposit</a></li>
